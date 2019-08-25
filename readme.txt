@@ -6,3 +6,4 @@ a test for git diff
 git tracks changes
 create a new branch is quick
 but we still need to test remote repository
+Creating a new branch is quick AND simple.
