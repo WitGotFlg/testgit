@@ -8,3 +8,5 @@ create a new branch is quick
 but we still need to test remote repository
 Creating a new branch is quick AND simple.
 merge
+test on stash and cherry-pick
+you know
